@@ -1,0 +1,13 @@
+PROGRAM EX01;
+VAR X,SUM;
+BEGIN
+  SUM:=10;
+  SUM++;
+  WRITE(SUM);
+  ++SUM;
+  WRITE(SUM);
+  SUM--;
+  WRITE(SUM);
+  --SUM;
+  WRITE(SUM);
+END.

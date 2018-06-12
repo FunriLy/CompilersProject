@@ -1,0 +1,12 @@
+PROGRAM EX01;
+VAR X,SUM;
+BEGIN
+  SUM:=1;
+  FOR X:=1
+  STEP 1
+  UNTIL 10
+  DO BEGIN
+      WRITE(SUM);
+  END;
+;
+END.

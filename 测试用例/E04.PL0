@@ -1,0 +1,10 @@
+PROGRAM EX01;
+VAR A,B,C;
+BEGIN
+  A:=4;
+  A*=2;
+  WRITE(A);
+  B:=16;
+  B/=2;
+  WRITE(B);
+END.

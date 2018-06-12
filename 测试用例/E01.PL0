@@ -1,0 +1,18 @@
+PROGRAM EX01;
+VAR A,B,C;
+BEGIN
+  A:=88;
+  B:=1;
+  C:=A+B*(3+B);
+  WRITE(C);
+  ELSE;
+  FOR;
+  STEP;
+  UNTIL;
+  RETURN;
+  *=;
+  /=;
+  &;
+  ||;
+  !;
+END.
