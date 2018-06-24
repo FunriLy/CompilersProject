@@ -14,7 +14,7 @@
 
 - 课程设计内容
 
-  - 增加单词：保留字 ELSE， FOR， STEP， UNTIL， DO, RETURN 
+  - 增加单词：保留字 ELSE， FOR， STEP， UNTIL， DO， RETURN 
 
   - 增加单词：运算符 *=， /=， &， ||，！ 
 
